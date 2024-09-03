@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working mostly with Java & Spring on commercial projects <br>🐍 Experience with data analysis with Python<br>📘 Certified with IBM Applied DevOps Engineering and Professional Scrum Master I <br>
+💻 Currently working mostly with Java & Spring on commercial projects <br>🐍 Experience with data analysis in Python<br>📘 IBM Applied DevOps Engineering and Professional Scrum Master I certifications <br>
 
 
 ## 🌐 Socials:
